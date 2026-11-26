@@ -1,0 +1,8 @@
+{
+  "name": "kula-teach",
+  "private": true,
+  "description": "Kula Teach prototype. Static page plus one serverless mentor endpoint.",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.126.0"
+  }
+}
