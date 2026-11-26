@@ -1,5 +1,0 @@
-{
-  "functions": {
-    "api/adapt.js": { "maxDuration": 60 }
-  }
-}
